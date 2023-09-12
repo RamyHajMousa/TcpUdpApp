@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpUdpServer", "TcpUdpServer\TcpUdpServer.csproj", "{4C67C950-B640-4911-8C2A-150BC6C13BEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpUdpClient", "TcpUdpClient\TcpUdpClient.csproj", "{6998C15D-62A0-43D4-AA4E-01E43EEE21D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1886359-5A3D-4059-80C5-F0F38D6ED5F9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C67C950-B640-4911-8C2A-150BC6C13BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C67C950-B640-4911-8C2A-150BC6C13BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C67C950-B640-4911-8C2A-150BC6C13BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C67C950-B640-4911-8C2A-150BC6C13BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6998C15D-62A0-43D4-AA4E-01E43EEE21D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6998C15D-62A0-43D4-AA4E-01E43EEE21D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6998C15D-62A0-43D4-AA4E-01E43EEE21D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6998C15D-62A0-43D4-AA4E-01E43EEE21D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5446CCD-8953-48A5-8951-CD48B749F0AC}
+	EndGlobalSection
+EndGlobal
